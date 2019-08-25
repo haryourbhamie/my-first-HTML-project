@@ -1,2 +1,3 @@
 # my-first-HTML-project
 my CV in HTML
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">thank you <a href="https://twitter.com/flutterwave?ref_src=twsrc%5Etfw">@flutterwave</a> for immensely pushing supports and sponsorship behind HNG.. <a href="https://twitter.com/startdotng?ref_src=twsrc%5Etfw">@startdotng</a> <a href="https://twitter.com/hnginternship?ref_src=twsrc%5Etfw">@hnginternship</a></p>&mdash; ay (@haryourbhamie) <a href="https://twitter.com/haryourbhamie/status/1165661740576780288?ref_src=twsrc%5Etfw">August 25, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
